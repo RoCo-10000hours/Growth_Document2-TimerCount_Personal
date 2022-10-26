@@ -8,7 +8,7 @@ SwiftUI
 ## 1.이번에 배우게 된 내용
 
 <img width="687" alt="스샷 0" src="https://user-images.githubusercontent.com/114223996/197980581-6ab798dc-8e74-49a2-acb0-918babcd3481.png">
-((@state으 흐름이해))
+((@state 흐름이해))
 <img width="640" alt="State설명" src="https://user-images.githubusercontent.com/114223996/198005596-6075e2f8-bc7d-4af5-b0f2-2c8fbdce23bd.png">
 
 
