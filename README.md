@@ -1,5 +1,10 @@
 # Growth_Document2-TimerCount_Personal
 
+Coding Start +Day43
+
+SwiftUI
+
+#1~52 Steps의 과정속에서
 ## 1.이번에 배우게 된 내용
 
 <img width="687" alt="스샷 0" src="https://user-images.githubusercontent.com/114223996/197980581-6ab798dc-8e74-49a2-acb0-918babcd3481.png">
